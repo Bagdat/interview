@@ -65,3 +65,56 @@
     <p>Разница между inline classes и type aliases?</p>
   </li>
 </ol>
+
+## Inline функции:
+
+<ol>
+  <li>
+    <p>Зачем в Kotlin ключевое слово inline ?</p>
+  </li>
+  <li>
+    <p>crossinline и noinline</p>
+  </li>
+</ol>
+
+## Generics:
+
+<ol>
+  <li>
+    <p>Generics в kotlin</p>
+  </li>
+  <li>
+    <p>Что такое reified?</p>
+  </li>
+  <li>
+    <p>Разница между <*> и <Any>?</p>
+  </li>
+</ol>
+
+## Collections:
+
+<ol>
+  <li>
+    <p>Различие Collections и Sequences?</p>
+  </li>
+</ol>
+
+## Kotlin and Java:
+
+<ol>
+  <li>
+    <p>Что использовать в Kotlin вместо static функций?</p>
+  </li>
+  <li>
+    <p>Аннотация @JvmStatic ?</p>
+  </li>
+  <li>
+    <p>Чем Any в Kotlin отличается от Object в Java?</p>
+  </li>
+  <li>
+    <p>Есть ли аналог Nothing в Java ?</p>
+  </li>
+   <li>
+    <p>Разница между Exception в Java и Kotlin?</p>
+  </li>
+</ol>
