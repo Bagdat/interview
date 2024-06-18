@@ -50,7 +50,7 @@
     <p>Как бывают конструкторы в Kotlin?</p>
   </li>
   <li>
-    <p>Unit vs Nothing</p>
+    <p>Расскажи про типы Any, Unit, Nothing в Kotlin</p>
   </li>
   <li>
     <p>Ключевое слово object vs companion object</p>
@@ -119,13 +119,26 @@
   </li>
 </ol>
 
-
-
-## Компоненты:
+## Базовые вопросы по Android:
 
 <ol>
   <li>
-    <p>Различие Collections и Sequences?</p>
+    <p>Для чего нужны фрагменты, если есть Activity</p>
+  </li>
+  <li>
+    <p>Как передавать данные из одного фрагмента в другой?</p>
+  </li>
+  <li>
+    <p>Чем жизненный цикл фрагмента отличается от Activity?</p>
+  </li>
+  <li>
+    <p>В каком случае onDestroy вызовется без onPause и onStop?</p>
+  </li>
+  <li>
+    <p>Чем отличаются add и replace?</p>
+  </li>
+  <li>
+    <p>В чем разница между Dialog и DialogFragment?</p>
   </li>
 </ol>
 
