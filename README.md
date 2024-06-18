@@ -118,3 +118,14 @@
     <p>Разница между Exception в Java и Kotlin?</p>
   </li>
 </ol>
+
+
+
+## Компоненты:
+
+<ol>
+  <li>
+    <p>Различие Collections и Sequences?</p>
+  </li>
+</ol>
+
